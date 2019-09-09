@@ -19,4 +19,9 @@
 ## 2. <a name='HowtoGetStartupIdeas'></a>002: How to Get Startup Ideas
 
 - [Link](http://www.paulgraham.com/startupideas.html)
-- [Notes](notes/002_how_to_get_startup_ideas)
+- [Notes](notes/002_how_to_get_startup_ideas.md)
+
+## 003: Ideas for Startups
+
+- [Link](http://paulgraham.com/ideas.html)
+- [Notes](notes/003_ideas_for_startups.md)
